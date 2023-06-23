@@ -1,0 +1,8 @@
+com\foxdev\ciphermc\Claim\ClaimManager.class
+com\foxdev\ciphermc\Claim\Claim.class
+com\foxdev\ciphermc\CipherMC.class
+com\foxdev\ciphermc\Listener\kingdomJoinListener.class
+com\foxdev\ciphermc\Manager\KingdomManager.class
+com\foxdev\ciphermc\Manager\KingdomTablist.class
+com\foxdev\ciphermc\Commands\KingdomCommand.class
+com\foxdev\ciphermc\Manager\Kingdoms.class
